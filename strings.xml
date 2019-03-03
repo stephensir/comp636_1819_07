@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+
+    <string-array name="names">
+        <item>clown_fish</item>
+        <item>crab </item>
+        <item>fish</item>
+        <item>fish_food</item>
+        <item>koi_fish</item>
+        <item>mermaid</item>
+        <item>no_crustaceans</item>
+        <item>no_shellfish</item>
+        <item>octopus</item>
+        <item>seahorse</item>
+        <item>shellfish</item>
+        <item>starfish</item>
+        <item>tentacles</item>
+        <item>whale</item>
+    </string-array>
+
+    <integer-array name="icons">
+        <item>@drawable/clown_fish</item>
+        <item>@drawable/crab</item>
+        <item>@drawable/fish</item>
+        <item>@drawable/fish_food</item>
+        <item>@drawable/koi_fish</item>
+        <item>@drawable/mermaid</item>
+        <item>@drawable/no_crustaceans</item>
+        <item>@drawable/no_shellfish</item>
+        <item>@drawable/octopus</item>
+        <item>@drawable/seahorse</item>
+        <item>@drawable/shellfish</item>
+        <item>@drawable/starfish</item>
+        <item>@drawable/tentacles</item>
+        <item>@drawable/whale</item>
+    </integer-array>
+
+</resources>
